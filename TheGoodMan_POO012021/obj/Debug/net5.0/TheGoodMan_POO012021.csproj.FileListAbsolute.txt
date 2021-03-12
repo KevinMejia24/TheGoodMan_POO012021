@@ -1,0 +1,16 @@
+C:\Users\keale\OneDrive\Documentos\repository\TheGoodMan_POO012021\TheGoodMan_POO012021\bin\Debug\net5.0\TheGoodMan_POO012021.exe
+C:\Users\keale\OneDrive\Documentos\repository\TheGoodMan_POO012021\TheGoodMan_POO012021\bin\Debug\net5.0\TheGoodMan_POO012021.deps.json
+C:\Users\keale\OneDrive\Documentos\repository\TheGoodMan_POO012021\TheGoodMan_POO012021\bin\Debug\net5.0\TheGoodMan_POO012021.runtimeconfig.json
+C:\Users\keale\OneDrive\Documentos\repository\TheGoodMan_POO012021\TheGoodMan_POO012021\bin\Debug\net5.0\TheGoodMan_POO012021.runtimeconfig.dev.json
+C:\Users\keale\OneDrive\Documentos\repository\TheGoodMan_POO012021\TheGoodMan_POO012021\bin\Debug\net5.0\TheGoodMan_POO012021.dll
+C:\Users\keale\OneDrive\Documentos\repository\TheGoodMan_POO012021\TheGoodMan_POO012021\bin\Debug\net5.0\ref\TheGoodMan_POO012021.dll
+C:\Users\keale\OneDrive\Documentos\repository\TheGoodMan_POO012021\TheGoodMan_POO012021\bin\Debug\net5.0\TheGoodMan_POO012021.pdb
+C:\Users\keale\OneDrive\Documentos\repository\TheGoodMan_POO012021\TheGoodMan_POO012021\obj\Debug\net5.0\TheGoodMan_POO012021.csprojAssemblyReference.cache
+C:\Users\keale\OneDrive\Documentos\repository\TheGoodMan_POO012021\TheGoodMan_POO012021\obj\Debug\net5.0\TheGoodMan_POO012021.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\keale\OneDrive\Documentos\repository\TheGoodMan_POO012021\TheGoodMan_POO012021\obj\Debug\net5.0\TheGoodMan_POO012021.AssemblyInfoInputs.cache
+C:\Users\keale\OneDrive\Documentos\repository\TheGoodMan_POO012021\TheGoodMan_POO012021\obj\Debug\net5.0\TheGoodMan_POO012021.AssemblyInfo.cs
+C:\Users\keale\OneDrive\Documentos\repository\TheGoodMan_POO012021\TheGoodMan_POO012021\obj\Debug\net5.0\TheGoodMan_POO012021.csproj.CoreCompileInputs.cache
+C:\Users\keale\OneDrive\Documentos\repository\TheGoodMan_POO012021\TheGoodMan_POO012021\obj\Debug\net5.0\TheGoodMan_POO012021.dll
+C:\Users\keale\OneDrive\Documentos\repository\TheGoodMan_POO012021\TheGoodMan_POO012021\obj\Debug\net5.0\ref\TheGoodMan_POO012021.dll
+C:\Users\keale\OneDrive\Documentos\repository\TheGoodMan_POO012021\TheGoodMan_POO012021\obj\Debug\net5.0\TheGoodMan_POO012021.pdb
+C:\Users\keale\OneDrive\Documentos\repository\TheGoodMan_POO012021\TheGoodMan_POO012021\obj\Debug\net5.0\TheGoodMan_POO012021.genruntimeconfig.cache
