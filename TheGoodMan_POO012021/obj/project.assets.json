@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\keale\\.nuget\\packages\\": {}
+    "C:\\Users\\erick\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\keale\\OneDrive\\Documentos\\repository\\TheGoodMan_POO012021\\TheGoodMan_POO012021\\TheGoodMan_POO012021.csproj",
+      "projectUniqueName": "C:\\Users\\erick\\OneDrive\\Documentos\\TheGoodMan_POO012021\\TheGoodMan_POO012021\\TheGoodMan_POO012021.csproj",
       "projectName": "TheGoodMan_POO012021",
-      "projectPath": "C:\\Users\\keale\\OneDrive\\Documentos\\repository\\TheGoodMan_POO012021\\TheGoodMan_POO012021\\TheGoodMan_POO012021.csproj",
-      "packagesPath": "C:\\Users\\keale\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\keale\\OneDrive\\Documentos\\repository\\TheGoodMan_POO012021\\TheGoodMan_POO012021\\obj\\",
+      "projectPath": "C:\\Users\\erick\\OneDrive\\Documentos\\TheGoodMan_POO012021\\TheGoodMan_POO012021\\TheGoodMan_POO012021.csproj",
+      "packagesPath": "C:\\Users\\erick\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\erick\\OneDrive\\Documentos\\TheGoodMan_POO012021\\TheGoodMan_POO012021\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\keale\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\erick\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
